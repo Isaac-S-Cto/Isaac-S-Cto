@@ -8,7 +8,7 @@
 
 - 💬 Meus Interesses **HTML, CSS, JS, Node.JS, TypeScript, Angular**
 
-- 📖 Citação Favorita "Nunca é alto o preço a se pagar pelo privilégio de pertencer a si mesmo"
+- 📖 Citação Favorita **"Nunca é alto o preço a se pagar pelo privilégio de pertencer a si mesmo"**
 
 <!--
 <br><br>
