@@ -2,13 +2,13 @@
 <h1 align="left">Hello Friends <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Isaac Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Aspiring Software Developer
+🔥 Aspiring Software Developer
 
-- 🔭 BootCamps [Dio](https://dio.me)
+🔭 software engineering student - Ampli college
 
-- 💬 I'm studying **HTML, CSS, JS, Node.JS, TypeScript, Angular**
+⚡ full stack technical course at cubes academy.
 
-- 👁️ **"No price is too high to pay for the privilege of owning yourself."**
+👁️ **"No price is too high to pay for the privilege of owning yourself."**
 
 <!--
 <br><br>
