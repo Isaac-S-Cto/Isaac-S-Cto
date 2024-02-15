@@ -2,11 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 💻 software engineering student at ampli anhaguera university
+- 💻 Software Engineering Student at Ampli University
 
-- 🎯 full stack development course at cubes academy
+- 🎯 Full-stack development course at Cubos Academy
 
-- 💬 Ask me about **HTML, CSS, Java Script, React, Type Script, tailwild Node.JS**
+- 💬 Ask me about **HTML, CSS, Java Script, React**
 
 - ⚡ focusing
 
