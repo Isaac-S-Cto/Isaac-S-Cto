@@ -2,17 +2,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 💻 software engineering student at ampli anhaguera university
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🎯 full stack development course at cubes academy
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 Ask me about **HTML, CSS, Java Script, React, Type Script, tailwild Node.JS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ focusing
 
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
 <!--
 
