@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
 
-- 💻 Software Engineering Student at Ampli University
+- 💻 Ampli University - Software Engineering
 
 - 🎯 Full-stack development course at Cubos Academy
 
