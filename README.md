@@ -1,3 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Isaac</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
@@ -11,11 +18,16 @@
 - ⚡ focusing
 <div>
   <a href="https://https://github.com/Isaac-S-Cto">
-  <img width="30%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
-  <img width="30%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
+    
+  <img width="40%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
+  <img width="40%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
+  
   </div>
 
-<!--
+</body>
+</html>
 
 
-<br><br>
+
+
+
