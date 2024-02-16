@@ -21,7 +21,19 @@
 
 - ⚡ focusing
 
-<br>
+
+<p>
+<img align="right" width = "380" height="600em" 
+  src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
+</p>
+<div>
+  <a href="https://https://github.com/Isaac-S-Cto">
+    
+  <img width="40%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
+<br> <br>
+  <img width="30%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
+  </p>
+</div>
 
 
  <div style = "display: inline_block">
@@ -51,18 +63,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
    <img align="center"  alt="isaac-Html" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </picture>
-<p>
-<img align= "center "align="right" width = "380" height="600em" 
-  src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
-</p>
-<div>
-  <a href="https://https://github.com/Isaac-S-Cto">
-    
-  <img width="80%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
-<br> <br>
-  <img width="80%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
-  </p>
-</div>
+
 
 </br>
 
