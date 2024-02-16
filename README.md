@@ -30,18 +30,18 @@
   <picture>
  <img align="center" alt="isaac-Html" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   </picture>
-     <picture>
+   <picture>
   <img align="center" alt="isaac-Css" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
         </picture>
-    <picture>
+        <picture>
   <img align="center" alt="isaac-JS" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
        </picture>
-    <picture>
+       <picture>
   <img align="center" alt="isaac-React" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     </picture>
-    <picture>
+     <picture>
   <img align="center" alt="isaac-tailwild" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-            </picture>
+   </picture>
     
   </div>
 
