@@ -11,10 +11,11 @@
     
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, I'm Isaac</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
-<img align="center" width = "380" height="700em"
+</p>
+<img align="right" width = "380" height="700em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/ee95c6e20963581efcfa7d4738c62c17ff32b8a9/GitHubCard4.svg"/>
 
-</p>
+
 
 
 <br><br>
@@ -25,9 +26,9 @@ src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636d
     
   <a href="https://github.com/Isaac-S-Cto">
     
-  <img width="55%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
+  <img width="50%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
 <br> <br>
-  <img width="45%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
+  <img width="40%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
   </p>
 </div>
 
