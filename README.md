@@ -10,8 +10,8 @@
     <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, I'm Isaac</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
+
 
 - 💻 Ampli University - Software Engineering-
 
@@ -20,6 +20,8 @@
 - 💬 Ask me about **HTML, CSS, Java Script, React**
 
 - ⚡ focusing
+
+<br>
 
 
  <div style = "display: inline_block">
