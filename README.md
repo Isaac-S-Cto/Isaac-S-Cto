@@ -9,7 +9,7 @@
 <body>
     <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, I'm Isaac</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
-<img align="right" width = "350em" height="600em" 
+<img align="right" width = "300em" height="600em" 
   src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
 
 
