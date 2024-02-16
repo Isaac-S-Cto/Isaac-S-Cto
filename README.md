@@ -11,7 +11,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> 
-<img align="right" width = "380" height="620em"
+<img align="right" width = "380" height="700em"
 
 
 
