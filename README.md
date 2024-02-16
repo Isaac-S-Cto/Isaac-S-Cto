@@ -12,10 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> 
 <img align="right" width = "380" height="620em" 
-  src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
-</p>
-
-
+ 
 - 💻 Ampli University - Software Engineering-
 
 - 🎯 Full-stack development course at Cubos Academy
@@ -23,6 +20,11 @@
 - 💬 Ask me about **HTML, CSS, Java Script, React**
 
 - ⚡ focusing
+ src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/ab766bd45cbb5aef9f33293ff4f4cdf6a05faf46/GitHubCard2.svg"/>
+</p>
+
+
+
 <br><br>
 
 
