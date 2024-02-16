@@ -15,14 +15,6 @@
 
 
 
-- 💻 Ampli University - Software Engineering 
-
-
-- 🎯 Full-stack development course at Cubos Academy
-
-- 💬 Ask me about **HTML, CSS, Java Script, React**
-
-- ⚡ focusing
 
 
  
@@ -32,6 +24,14 @@
 </p>
 
 
+- 💻 Ampli University - Software Engineering 
+
+
+- 🎯 Full-stack development course at Cubos Academy
+
+- 💬 Ask me about **HTML, CSS, Java Script, React**
+
+- ⚡ focusing
 
 <br><br>
 
