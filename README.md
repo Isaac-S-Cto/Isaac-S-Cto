@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
 
 
-<img align="right" width = "380" height="750em"
+<img align="right" width = "380" height="800em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/ee95c6e20963581efcfa7d4738c62c17ff32b8a9/GitHubCard4.svg"/>
 </p>
 
