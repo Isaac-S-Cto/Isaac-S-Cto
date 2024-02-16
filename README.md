@@ -12,9 +12,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, I'm Isaac</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
 
+<picture>
 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg">
 <img align="right" width = "380" height="600em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg"/>
+    </picture>
 </p>
 
 
