@@ -21,9 +21,9 @@
 - ⚡ focusing
 
 
- <div style = "picture align"center" "display: inline_block">
+ <div style = "display: inline_block">
     
-  <picture>
+  <picture align= "center">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
    <img align="center"  alt="isaac-Html" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
