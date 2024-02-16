@@ -13,11 +13,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
 
 
-
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
 <img align="right" width = "380" height="600em"
-src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/48464ecd0bcc664d967f32e3a09f1f15/raw/7e6a372f34e7a48614937a58a300e96f0018c2e1/GitHubCard5.svg"/>
-    
+src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
+    </picture>
 </p>
 
 
