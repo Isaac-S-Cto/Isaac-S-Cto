@@ -21,7 +21,7 @@
 - ⚡ focusing
 
 
- <div style = "display: inline_block">
+ <div style = "picture align"center" "display: inline_block">
     
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
