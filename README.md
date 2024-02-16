@@ -19,7 +19,7 @@
 
  
  
-
+<p>
 <img align="center" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/ee95c6e20963581efcfa7d4738c62c17ff32b8a9/GitHubCard4.svg"/>
 </p>
 
