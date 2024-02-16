@@ -14,10 +14,10 @@
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/48464ecd0bcc664d967f32e3a09f1f15/raw/7e6a372f34e7a48614937a58a300e96f0018c2e1/GitHubCard5.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/48464ecd0bcc664d967f32e3a09f1f15/raw/7e6a372f34e7a48614937a58a300e96f0018c2e1/GitHubCard5.svg">
 <img align="right" width = "380" height="600em"
-src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/c1a3555d93bb561891d5c4d1064fe6e8/raw/06d274ebc9611b4d50a9211b31c1eedb8cc5a161/GitHubCard2.svg"/>
+src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/48464ecd0bcc664d967f32e3a09f1f15/raw/7e6a372f34e7a48614937a58a300e96f0018c2e1/GitHubCard5.svg"/>
     </picture>
 </p>
 
