@@ -35,12 +35,12 @@
   </p>
 </div>
 
-<br>
+<br><br>
 
 
  <div style = "display: inline_block">
-    <p align="right"
-  <picture align= "center">
+    <p align="center"
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
    <img align="center"  alt="isaac-Html" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
