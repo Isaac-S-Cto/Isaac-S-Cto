@@ -22,7 +22,7 @@
 
 
  <div style = "display: inline_block">
-    
+    <p align="left"
   <picture align= "center">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -58,7 +58,7 @@
   <img width="80%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
 <br> <br>
   <img width="80%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
-  
+  </p>
 </div>
 
 </br>
