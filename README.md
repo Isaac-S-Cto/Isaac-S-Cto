@@ -27,6 +27,8 @@
 
 
 <div>
+    <p align="center"
+    
   <a href="https://github.com/Isaac-S-Cto">
     
   <img width="50%"  src = "https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private-true"/>
@@ -39,7 +41,7 @@
 
 
  <div style = "display: inline_block">
-    <p align="right"
+    <p align="center"
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
