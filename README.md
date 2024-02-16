@@ -11,6 +11,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=grey" alt="Profile views" /> </p>
+<br>
 
 - 💻 Ampli University - Software Engineering-
 
