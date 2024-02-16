@@ -14,7 +14,7 @@
 
 
 <img align="right" width = "380" height="600em"
-src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/ee95c6e20963581efcfa7d4738c62c17ff32b8a9/GitHubCard4.svg"/>
+src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/d4ec7542af8bdd9bc00cd00cffd253a295e08b59/GitHubCard4.svg"/>
 </p>
 
 
