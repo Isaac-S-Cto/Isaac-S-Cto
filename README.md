@@ -13,12 +13,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
 
 
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
 <img align="right" width = "380" height="600em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
     </picture>
+</p>
+<p align ="left">
+    <ul>
+        
+- 🎓 Estudante de Engenharia de Software.
+- 🔍 Explorando Html, CSS, JS, React.
+- 🧠 Interessado em IA e machine learning.
+</ul>
 </p>
 
 
