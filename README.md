@@ -17,18 +17,18 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
-<img align="right" width = "380" height="600em"
+<img align="right" width = "380" height="820em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
     </picture>
 </p>
 <p align ="left">
-    <ul>
-        
-- 🎓 Estudante de Engenharia de Software.
-- 🔍 Explorando Html, CSS, JS, React.
-- 🧠 Interessado em IA e machine learning.
-</ul>
-</p>
+   <br>
+
+<h2>about me</h2>
+
+<p>🎓 Software Engineering Student.</p>
+<p>🔍 Exploring Html, CSS, JS, React.</p>
+<p>🧠 Interested in AI and machine learning.</p>
 
 
 
