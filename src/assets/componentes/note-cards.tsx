@@ -52,7 +52,7 @@ export function NewNoteCard({onNoteCreated}: NewNoteCardProps) {
   setContent(event.target.value) /* passando valores do evento submit(Savar notas) atraves das variaveis/ 
 content <= recera o valor de submit */
   if (event.target.value === ''){
-setShouldShowOnboarding(false)
+setShouldShowOnboarding(true)
 
 
   }
@@ -67,7 +67,7 @@ function HandleSaveNote(event:FormEvent){
     return 
   }
 
- 
+
 
 
   onNoteCreated(content)
