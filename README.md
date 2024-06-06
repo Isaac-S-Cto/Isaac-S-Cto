@@ -17,7 +17,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
   <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
-<img align="right" width = "380" height="620em"
+<img align="right" width = "380" height="500em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
     </picture>
 </p>
