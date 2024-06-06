@@ -9,7 +9,7 @@
 
 <body>
     
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, seja Bem-vindo!</h1>
+<h1  align="left">Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="30" height="30" />, seja Bem-vindo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isaac-S-Cto&color=yellow" alt="Profile views" /> 
 
 
@@ -17,13 +17,13 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
   <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
-<img align="right" width = "380" height="420em"
+<img align="right" width = "380" height="480em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
     </picture>
 </p>
 <br>
 
-<br>
+
 <div>
     <p align="center">
         <a href="https://github.com/Isaac-S-Cto">
@@ -35,8 +35,6 @@ src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636d
 </div>
 
 
-
-<br><br>
 
 
  <div style = "display: inline_block">
