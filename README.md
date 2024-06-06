@@ -14,23 +14,23 @@
 
 
 
-<picture style="padding-top: 100rem;">
+<picture>
  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
   <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg">
-<img align="right" width = "380" height="450em"
+<img align="right" width = "380" height="420em"
 src="https://raw.githubusercontent.com/gist/Isaac-S-Cto/8f1f3262c14ed1d63049636dee53c316/raw/3e1a6fc7d67084b842169316af4555cdbb8530d2/GitHubCard4.svg"/>
     </picture>
 </p>
 
 
-
+<br>
 <div>
     <p align="center">
         <a href="https://github.com/Isaac-S-Cto">
-            <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Isaac-S-Cto&show_icons=false&theme=shadow_blue&include_all_commits=true&count_private=true"/>
         </a>
         <br><br>
-        <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-S-Cto&layout=compact&langs_count=16&theme=shadow_blue"/>
     </p>
 </div>
 
